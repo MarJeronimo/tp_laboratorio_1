@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491701298 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\tps\tp1_calculadora_standard\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
