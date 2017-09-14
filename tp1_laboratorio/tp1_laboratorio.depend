@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1505263575 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\2017_segundocuatrimestre\trabajos_practicos\tp_1\tp1_laboratorio\funcion_menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1505263930 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\2017_segundocuatrimestre\trabajos_practicos\tp_1\tp1_laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones_ARITMETICAS.h"
+
+1505259614 c:\users\mariano d jeronimo\documents\utn_clases\workspace\2017_segundocuatrimestre\trabajos_practicos\tp_1\tp1_laboratorio\funciones.h
+
+1505259614 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\2017_segundocuatrimestre\trabajos_practicos\tp_1\tp1_laboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+
+1505263277 c:\users\mariano d jeronimo\documents\utn_clases\workspace\2017_segundocuatrimestre\trabajos_practicos\tp_1\tp1_laboratorio\funciones_aritmeticas.h
+
+1505313088 source:c:\users\mariano d jeronimo\documents\utn_clases\workspace\2017_segundocuatrimestre\trabajos_practicos\tp_1\tp1_laboratorio\funciones_aritmeticas.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones_ARITMETICAS.h"
+	"funciones.h"
+
